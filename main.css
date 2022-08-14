@@ -1,6 +1,10 @@
 @media only screen and (max-width:1430px){
     .part-one{
         padding-left: 6rem;
+        width: 50%;
+    }
+    .part-two{
+        width: 50%;
     }
 }
 @media only screen and (max-width:1230px){
@@ -32,6 +36,7 @@
     .part-one{
        height: 50%;
         width: 100%;
+        padding: 0 5rem;
     }
     .part-two{
         width: 100%;
