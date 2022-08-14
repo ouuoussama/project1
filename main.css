@@ -23,3 +23,39 @@
         width: 50%;
     }
 }
+@media only screen and (max-width:940px){
+    .first-page{
+        display: inline-block;
+        width: 100%;
+        height:100% ;
+    }
+    .part-one{
+       height: 50%;
+        width: 100%;
+    }
+    .part-two{
+        width: 100%;
+        height: 50%;
+    }
+    .container {
+        display:table;    
+     }
+     .div1{
+        z-index: 3;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: auto;
+        padding: 0;
+        margin: 0;
+        background-color: white;
+        padding: 2rem 2rem;
+     }
+     .div2 {
+         display:table-header-group;
+     }
+     .div3 {
+         display:table-row-group;
+     }
+}
