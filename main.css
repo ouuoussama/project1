@@ -3,3 +3,23 @@
         padding-left: 6rem;
     }
 }
+@media only screen and (max-width:1230px){
+    .part-one{
+        padding-left: 3rem;
+        padding-top: 3rem;
+        width: 50%;
+    }
+    h1{
+        font-size: 40px;
+    }
+    p{
+        font-size: 15px;
+    }
+    .thexplore {
+        margin-top: 70px;
+        padding: 0 4rem 0 0px;
+    }
+    .part-two{
+        width: 50%;
+    }
+}
