@@ -64,3 +64,10 @@
          display:table-row-group;
      }
 }
+@media only screen and (max-width:584px){
+    .part-one{
+        height: 50%;
+         width: 100%;
+         padding: 0 0rem;
+     }
+}
