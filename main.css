@@ -36,8 +36,9 @@
     .part-one{
        height: 50%;
         width: 100%;
-        padding: 0 5rem;
+        padding: 3rem 4rem;
     }
+    
     .part-two{
         width: 100%;
         height: 50%;
@@ -55,19 +56,18 @@
         padding: 0;
         margin: 0;
         background-color: white;
-        padding: 2rem 2rem;
+        padding: 2rem 2rem; 
+
      }
      .div2 {
          display:table-header-group;
      }
      .div3 {
          display:table-row-group;
+         padding: 1rem 1rem;
+         
      }
 }
 @media only screen and (max-width:584px){
-    .part-one{
-        height: 50%;
-         width: 100%;
-         padding: 0 0rem;
-     }
+        
 }
